@@ -23,6 +23,8 @@ int main()
   
 
 
+ // Un modif depuis SVN
+  printf("Fonctionne aussi depuis SVN");
 
 
   // des modifs à faire...
