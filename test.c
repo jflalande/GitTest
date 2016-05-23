@@ -6,6 +6,7 @@ int main()
 
   printf("Une modif de l'utilsateur principal !");
   // --------------------------------------------------------
+  // branche visu
   printf("Hello Git !");
   printf("Une modif :)");
   printf("Ma modif continue...");
